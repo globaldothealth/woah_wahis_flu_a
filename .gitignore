@@ -130,3 +130,6 @@ dmypy.json
 
 # dstore
 *.DS_Store
+
+#output folder
+scripts/output/*

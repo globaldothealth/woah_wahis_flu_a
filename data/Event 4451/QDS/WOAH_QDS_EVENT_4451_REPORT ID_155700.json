@@ -1,0 +1,22 @@
+{
+    "Red Fox (WILD) - NEW": {
+        "Species": "Red Fox (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "15",
+        "Deaths": "1",
+        "Killed and Disposed of": "4",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Red Fox (WILD) - TOTAL": {
+        "Species": "Red Fox (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "26",
+        "Deaths": "10",
+        "Killed and Disposed of": "4",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    }
+}

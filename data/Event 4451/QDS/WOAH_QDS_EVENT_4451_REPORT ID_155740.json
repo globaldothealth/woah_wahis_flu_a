@@ -1,0 +1,122 @@
+{
+    "Coyote (WILD) - NEW": {
+        "Species": "Coyote (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "1",
+        "Deaths": "-",
+        "Killed and Disposed of": "1",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Coyote (WILD) - TOTAL": {
+        "Species": "Coyote (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "1",
+        "Deaths": "-",
+        "Killed and Disposed of": "1",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Virginia Opossum (WILD) - NEW": {
+        "Species": "Virginia Opossum (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "2",
+        "Deaths": "1",
+        "Killed and Disposed of": "1",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Virginia Opossum (WILD) - TOTAL": {
+        "Species": "Virginia Opossum (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "2",
+        "Deaths": "1",
+        "Killed and Disposed of": "1",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Bobcat (WILD) - NEW": {
+        "Species": "Bobcat (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "2",
+        "Deaths": "-",
+        "Killed and Disposed of": "2",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Bobcat (WILD) - TOTAL": {
+        "Species": "Bobcat (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "2",
+        "Deaths": "-",
+        "Killed and Disposed of": "2",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Racoon (Northern raccoon) (WILD) - NEW": {
+        "Species": "Racoon (Northern raccoon) (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "4",
+        "Deaths": "2",
+        "Killed and Disposed of": "-",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Racoon (Northern raccoon) (WILD) - TOTAL": {
+        "Species": "Racoon (Northern raccoon) (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "4",
+        "Deaths": "2",
+        "Killed and Disposed of": "-",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Red Fox (WILD) - NEW": {
+        "Species": "Red Fox (WILD) - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "13",
+        "Deaths": "5",
+        "Killed and Disposed of": "6",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "Red Fox (WILD) - TOTAL": {
+        "Species": "Red Fox (WILD) - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "39",
+        "Deaths": "15",
+        "Killed and Disposed of": "10",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "All species - NEW": {
+        "Species": "All species - NEW",
+        "": "NEW",
+        "Susceptible": "-",
+        "Cases": "22",
+        "Deaths": "8",
+        "Killed and Disposed of": "10",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    },
+    "All species - TOTAL": {
+        "Species": "All species - TOTAL",
+        "": "TOTAL",
+        "Susceptible": "-",
+        "Cases": "48",
+        "Deaths": "18",
+        "Killed and Disposed of": "14",
+        "Slaughtered/ Killed for commercial use": "-",
+        "Vaccinated": "-"
+    }
+}
